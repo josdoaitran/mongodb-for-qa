@@ -14,6 +14,13 @@ To collect all information about: Mongodb tutorial and example for QA.
 - Field (Mongodb) ~ Column (SQL)
 - Embedded documents (Mongodb) ~ Joins (SQL)
 
+## Setup an example-mongodb local
+
+- Pull mongodb image local: `docker pull mongo`
+- Run Mongodb container:
+- 
+
+
 
 
 ## References:
