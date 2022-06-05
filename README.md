@@ -7,7 +7,12 @@ To collect all information about: Mongodb tutorial and example for QA.
 - MongoDB makes use of collections and documents
 
 
+## Mongodb vs SQL (Relational Database)
 
+- Collection (Mongodb) ~ Table (SQL)
+- Document (Mongodb) ~ Row (SQL)
+- Field (Mongodb) ~ Column (SQL)
+- Embedded documents (Mongodb) ~ Joins (SQL)
 
 
 
